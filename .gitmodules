@@ -4,3 +4,6 @@
 [submodule "Call-For-Code-Routing"]
 	path = Call-For-Code-Routing
 	url = https://github.com/lucasxia01/Call-For-Code-Routing
+[submodule "ibm-frontend"]
+	path = ibm-frontend
+	url = https://github.com/plusCubed/ibm-frontend
