@@ -1,5 +1,5 @@
-# ROVE
+# Rove
 
 Respond, Organize, Visualize Emergencies
 
-Live: https://rove.now.sh
+https://rove.now.sh
