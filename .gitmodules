@@ -7,6 +7,3 @@
 [submodule "ibm-frontend"]
 	path = ibm-frontend
 	url = https://github.com/plusCubed/ibm-frontend
-[submodule "Satellite-Analysis"]
-	path = Satellite-Analysis
-	url = git@github.com:legitmaxwu/Satellite-Analysis.git
